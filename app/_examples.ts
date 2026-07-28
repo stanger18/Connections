@@ -12,7 +12,7 @@ export const categories: Category[] = [
     level: 2,
   },
   {
-    category: "Stochwabake Sports Teams (Missing First Letter)",
+    category: "Stochwabake Sports Teams (Missing First Letter Y,B,U,O)",
     items: ["ANKEES", "ILLS", "CONN", "RANGE"],
     level: 3,
   },
